@@ -1,0 +1,36 @@
+C:\Workplace\Đồ án CTDL\AppMusic\bin\Debug\AppMusic.exe.config
+C:\Workplace\Đồ án CTDL\AppMusic\bin\Debug\AppMusic.exe
+C:\Workplace\Đồ án CTDL\AppMusic\bin\Debug\AppMusic.pdb
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.csproj.AssemblyReference.cache
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.csproj.SuggestedBindingRedirects.cache
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.Properties.Resources.resources
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.csproj.GenerateResource.cache
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.csproj.CoreCompileInputs.cache
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.exe
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.pdb
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.fPlay.resources
+C:\Workplace\Đồ án CTDL\AppMusic\bin\Debug\Interop.WMPLib.dll
+C:\Workplace\Đồ án CTDL\AppMusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\Interop.WMPLib.dll
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.csproj.ResolveComReference.cache
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.Resource.resources
+C:\Workplace\Đồ án CTDL\AppMusic\obj\Debug\AppMusic.fHome.resources
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\bin\Debug\AppMusic.exe.config
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\bin\Debug\AppMusic.exe
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\bin\Debug\AppMusic.pdb
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.csproj.AssemblyReference.cache
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.csproj.ResolveComReference.cache
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.fHome.resources
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.fPlay.resources
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.Properties.Resources.resources
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.Resource.resources
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.csproj.GenerateResource.cache
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.csproj.CoreCompileInputs.cache
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.exe
+C:\Users\anhcu\Downloads\Music-Player-main\AppMusic\obj\Debug\AppMusic.pdb
